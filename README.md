@@ -1,6 +1,6 @@
 # My Demo Repository
 
-> **Status:** This repository is used for practice and may be archived or deleted at any time.
+> **Status:** This repository is just used for practice and may be archived or deleted at any time because this is just for testing/practice.
 
 ---
 

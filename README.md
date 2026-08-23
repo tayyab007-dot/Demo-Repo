@@ -6,7 +6,7 @@
 
 ## 📖 About
 
-This is a demo repository created to experiment with Git and GitHub workflows.  
+This is a demo repository created to experiment with Git and GitHub workflows. I use it for specifacilly just for testing things how things looks when I bring them on github.  
 While it's not my very first repository, it serves as a sandbox for trying out:
 
 - Branching and merging
